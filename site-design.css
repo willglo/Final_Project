@@ -1,0 +1,104 @@
+@charset "utf-8";
+	body
+{
+	background : -moz-linear-gradient(50% 0% -90deg,rgba(255, 190, 0, 1) 0%,rgba(239, 0, 0, 1) 50%,rgba(234, 0, 0, 1) 50.87%,rgba(152, 0, 0, 1) 64.85%,rgba(87, 0, 0, 1) 77.24%,rgba(40, 0, 0, 1) 87.58%,rgba(11, 0, 0, 1) 95.48%,rgba(0, 0, 0, 1) 100%);
+	background : -webkit-linear-gradient(-90deg, rgba(255, 190, 0, 1) 0%, rgba(239, 0, 0, 1) 50%, rgba(234, 0, 0, 1) 50.87%, rgba(152, 0, 0, 1) 64.85%, rgba(87, 0, 0, 1) 77.24%, rgba(40, 0, 0, 1) 87.58%, rgba(11, 0, 0, 1) 95.48%, rgba(0, 0, 0, 1) 100%);
+	background : -webkit-gradient(linear,50% 0% ,50% 100% ,color-stop(0,rgba(255, 190, 0, 1) ),color-stop(0.5,rgba(239, 0, 0, 1) ),color-stop(0.5087,rgba(234, 0, 0, 1) ),color-stop(0.6485,rgba(152, 0, 0, 1) ),color-stop(0.7724,rgba(87, 0, 0, 1) ),color-stop(0.8758,rgba(40, 0, 0, 1) ),color-stop(0.9548,rgba(11, 0, 0, 1) ),color-stop(1,rgba(0, 0, 0, 1) ));
+	background : -o-linear-gradient(-90deg, rgba(255, 190, 0, 1) 0%, rgba(239, 0, 0, 1) 50%, rgba(234, 0, 0, 1) 50.87%, rgba(152, 0, 0, 1) 64.85%, rgba(87, 0, 0, 1) 77.24%, rgba(40, 0, 0, 1) 87.58%, rgba(11, 0, 0, 1) 95.48%, rgba(0, 0, 0, 1) 100%);
+	background : -ms-linear-gradient(-90deg, rgba(255, 190, 0, 1) 0%, rgba(239, 0, 0, 1) 50%, rgba(234, 0, 0, 1) 50.87%, rgba(152, 0, 0, 1) 64.85%, rgba(87, 0, 0, 1) 77.24%, rgba(40, 0, 0, 1) 87.58%, rgba(11, 0, 0, 1) 95.48%, rgba(0, 0, 0, 1) 100%);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFBE00', endColorstr='#000000' ,GradientType=0)";
+	background : linear-gradient(180deg, rgba(255, 190, 0, 1) 0%, rgba(239, 0, 0, 1) 50%, rgba(234, 0, 0, 1) 50.87%, rgba(152, 0, 0, 1) 64.85%, rgba(87, 0, 0, 1) 77.24%, rgba(40, 0, 0, 1) 87.58%, rgba(11, 0, 0, 1) 95.48%, rgba(0, 0, 0, 1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFBE00',endColorstr='#000000' , GradientType=0);
+}
+.footer-bkg
+{
+	background-image : url(footer-bkg.png);
+	background-repeat : no-repeat;
+}
+.header-bkg
+{
+	background-image : url(header-bkg.png);
+	background-repeat : no-repeat;
+}
+h1
+{
+	font-family : ATC Onyx;
+	font-size : 32px;
+	line-height : 22.05px;
+	color : #D3160C;
+	color : rgb(211, 22, 12);
+}
+p
+{
+	font-family : ATC Onyx;
+	font-size : 12px;
+	line-height : 20px;
+}
+.studio81-logo
+{
+	background-image : url(studio81-logo.png);
+	background-repeat : no-repeat;
+}
+footer
+{
+	font-family : ATC Onyx;
+	font-size : 9px;
+	line-height : 19.37px;
+	color : #EDEDED;
+	color : rgb(237, 237, 237);
+}
+.main-text
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.nav-bkg
+{
+	background : #EF0000;
+	background : rgba(239, 0, 0, 1);
+}
+.nav3
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+	text-shadow : 0px 2px 1px rgba(0, 0, 0, 0.75);
+}
+.nav2
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+	text-shadow : 0px 2px 1px rgba(0, 0, 0, 0.75);
+}
+.nav1
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+	text-shadow : 0px 2px 1px rgba(0, 0, 0, 0.75);
+}
+nav
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+	text-shadow : 0px 2px 1px rgba(0, 0, 0, 0.75);
+}
+.home-feature
+{
+	background-image : url(home-feature.png);
+	background-repeat : no-repeat;
+}

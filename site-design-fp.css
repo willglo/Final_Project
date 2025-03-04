@@ -1,0 +1,115 @@
+@charset "utf-8";
+	.NormalCharacterStyle2
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+	text-shadow : 0px 2px 1px rgba(0, 0, 0, 0.75);
+}
+.NormalCharacterStyle3
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+	text-shadow : 0px 2px 1px rgba(0, 0, 0, 0.75);
+}
+.NormalCharacterStyle1
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+	text-shadow : 0px 2px 1px rgba(0, 0, 0, 0.75);
+}
+.NormalCharacterStyle
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+	text-shadow : 0px 2px 1px rgba(0, 0, 0, 0.75);
+}
+.header-bkg
+{
+	background-image : url(header-bkg.png);
+	background-repeat : no-repeat;
+}
+.body_00000136389934559883056950000009886456249065951398_
+{
+	background : -moz-linear-gradient(50% 100% 90deg,rgba(84, 166, 255, 1) 0%,rgba(0, 237, 237, 1) 66.56%,rgba(255, 166, 255, 1) 100%);
+	background : -webkit-linear-gradient(90deg, rgba(84, 166, 255, 1) 0%, rgba(0, 237, 237, 1) 66.56%, rgba(255, 166, 255, 1) 100%);
+	background : -webkit-gradient(linear,50% 100% ,50% 0% ,color-stop(0,rgba(84, 166, 255, 1) ),color-stop(0.6656,rgba(0, 237, 237, 1) ),color-stop(1,rgba(255, 166, 255, 1) ));
+	background : -o-linear-gradient(90deg, rgba(84, 166, 255, 1) 0%, rgba(0, 237, 237, 1) 66.56%, rgba(255, 166, 255, 1) 100%);
+	background : -ms-linear-gradient(90deg, rgba(84, 166, 255, 1) 0%, rgba(0, 237, 237, 1) 66.56%, rgba(255, 166, 255, 1) 100%);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#54A6FF', endColorstr='#FFA6FF' ,GradientType=0)";
+	background : linear-gradient(0deg, rgba(84, 166, 255, 1) 0%, rgba(0, 237, 237, 1) 66.56%, rgba(255, 166, 255, 1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFA6FF',endColorstr='#54A6FF' , GradientType=0);
+}
+.footer-bkg
+{
+	background : #54A6FF;
+	background : rgba(84, 166, 255, 1);
+	opacity : 0.66;
+	filter: alpha(opacity=66) progid:DXImageTransform.Microsoft.Alpha(opacity=66) ;
+}
+.nav-bkg
+{
+	background : #0098ED;
+	background : rgba(0, 152, 237, 1);
+}
+.beach-img
+{
+	background-image : url(beach-img.png);
+	background-repeat : no-repeat;
+}
+.spring-break
+{
+	background-image : url(spring-break.png);
+	background-repeat : no-repeat;
+}
+.main-text-bkg
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.sun-logo
+{
+	background-image : url(sun-logo.png);
+	background-repeat : no-repeat;
+}
+.footer-text
+{
+	font-family : Montserrat Alternates;
+	font-weight : bold;
+	font-size : 18px;
+	line-height : 22.05px;
+	color : #F9F13D;
+	color : rgb(249, 241, 61);
+}
+.h1-text
+{
+	font-family : Decoy;
+	font-size : 40px;
+	line-height : 22.05px;
+	color : #54A6FF;
+	color : rgb(84, 166, 255);
+}
+.main-text
+{
+	font-family : Montserrat Alternates;
+	font-weight : bold;
+	font-size : 21px;
+	line-height : 22.05px;
+	color : #54A6FF;
+	color : rgb(84, 166, 255);
+}
