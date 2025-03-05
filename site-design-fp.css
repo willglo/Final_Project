@@ -49,7 +49,7 @@ body
 
 .footer-text
 {
-	font-family : Montserrat Alternates, serif;
+	font-family : "Montserrat Alternates", serif;
 	font-weight : bold;
 	font-size : 18px;
 	line-height : 22.05px;
@@ -59,7 +59,7 @@ body
 
 .h1-text
 {
-	font-family : Decoy;
+	font-family : "Decoy", serif;
 	font-size : 40px;
 	line-height : 22.05px;
 	color : #54A6FF;
@@ -67,7 +67,7 @@ body
 }
 .main-text
 {
-	font-family : Montserrat Alternates;
+	font-family : "Montserrat Alternates", serif;
 	font-weight : bold;
 	font-size : 21px;
 	line-height : 22.05px;
