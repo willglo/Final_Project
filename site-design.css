@@ -13,25 +13,7 @@ body{
 	background-image : url(header-bkg.png);
 	background-repeat : no-repeat;
 }
-h1
-{
-	font-family : ATC Onyx;
-	font-size : 32px;
-	line-height : 22.05px;
-	color : #D3160C;
-	color : rgb(211, 22, 12);
-}
-p
-{
-	font-family : ATC Onyx;
-	font-size : 12px;
-	line-height : 20px;
-}
-.studio81-logo
-{
-	background-image : url(studio81-logo.png);
-	background-repeat : no-repeat;
-}
+
 footer
 {
 	font-family : ATC Onyx;
@@ -50,46 +32,7 @@ footer
 	background : #EF0000;
 	background : rgba(239, 0, 0, 1);
 }
-.nav3
-{
-	font-family : ATC Onyx;
-	font-size : 21px;
-	line-height : 34px;
-	letter-spacing : 1.05px;
-	color : #FFFFFF;
-	color : rgb(255, 255, 255);
-	text-shadow : 0px 2px 1px rgba(0, 0, 0, 0.75);
-}
-.nav2
-{
-	font-family : ATC Onyx;
-	font-size : 21px;
-	line-height : 34px;
-	letter-spacing : 1.05px;
-	color : #FFFFFF;
-	color : rgb(255, 255, 255);
-	text-shadow : 0px 2px 1px rgba(0, 0, 0, 0.75);
-}
-.nav1
-{
-	font-family : ATC Onyx;
-	font-size : 21px;
-	line-height : 34px;
-	letter-spacing : 1.05px;
-	color : #FFFFFF;
-	color : rgb(255, 255, 255);
-	text-shadow : 0px 2px 1px rgba(0, 0, 0, 0.75);
-}
-nav
-{
-	font-family : ATC Onyx;
-	font-size : 21px;
-	line-height : 34px;
-	letter-spacing : 1.05px;
-	color : #FFFFFF;
-	color : rgb(255, 255, 255);
-	text-shadow : 0px 2px 1px rgba(0, 0, 0, 0.75);
-}
+
 .home-feature
 {
 	background-image : url(home-feature.png);

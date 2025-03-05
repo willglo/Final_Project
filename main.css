@@ -51,7 +51,7 @@ footer {
 }
 .footer-text{
 	text-align:center;
-font-family : Montserrat Alternates;
+font-family : "Montserrat Alternates", serif;
 font-weight : bold;
 font-size : 18px;
 line-height : 22.05px;
@@ -63,7 +63,7 @@ color : rgb(249, 241, 61);
 	margin: 0px auto 0px auto;
 	padding: 10px 15px 10px 15px;
 	float: left;
-	font-family : Montserrat Alternates;
+	font-family : "Montserrat Alternates", serif;
 	font-weight : bold;
 	font-size : 21px;
 	line-height : 22.05px;
