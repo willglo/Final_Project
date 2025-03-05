@@ -2,6 +2,8 @@
 body {
 	width: 800px;
 	margin: 0px auto 0px auto;
+	background: rgb(84,166,255);
+	background: linear-gradient(0deg, rgba(84,166,255,1) 0%, rgba(0,237,237,1) 66%, rgba(255,166,255,1) 100%);
 }
 nav {
 	width: 790px;
@@ -21,8 +23,24 @@ header {
 	background-repeat: no-repeat;
 	float: left;
 }
-header img {
-	margin: 10px;
+
+.header-bkg{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, .41);
+}
+
+.header-img {
+	display: block;
+	width: 70%;
+	height: auto;
+    margin:0 auto;
+    text-align:center;
+}
+
+.header-img-wrap{
+	text-align:center;
+	justify-content:center;
+	margin:20px;
 }
 
 footer {
@@ -30,14 +48,34 @@ footer {
 	margin: 0px auto 0px auto;
 	padding: 10px;
 	clear: both;
-	float: left;
 }
-
+.footer-text{
+	text-align:center;
+font-family : Montserrat Alternates;
+font-weight : bold;
+font-size : 18px;
+line-height : 22.05px;
+color : #F9F13D;
+color : rgb(249, 241, 61);
+}
 .main-text {
 	width: 770px;
 	margin: 0px auto 0px auto;
 	padding: 10px 15px 10px 15px;
 	float: left;
+	font-family : Montserrat Alternates;
+	font-weight : bold;
+	font-size : 21px;
+	line-height : 22.05px;
+	color : #54A6FF;
+	color : rgb(84, 166, 255);
+}
+
+.main-text-bkg
+{
+	padding:20px;
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
 }
 
 .main-text img {

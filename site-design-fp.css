@@ -44,16 +44,10 @@
 	background-image : url(header-bkg.png);
 	background-repeat : no-repeat;
 }
-.body_00000136389934559883056950000009886456249065951398_
+body
 {
-	background : -moz-linear-gradient(50% 100% 90deg,rgba(84, 166, 255, 1) 0%,rgba(0, 237, 237, 1) 66.56%,rgba(255, 166, 255, 1) 100%);
-	background : -webkit-linear-gradient(90deg, rgba(84, 166, 255, 1) 0%, rgba(0, 237, 237, 1) 66.56%, rgba(255, 166, 255, 1) 100%);
-	background : -webkit-gradient(linear,50% 100% ,50% 0% ,color-stop(0,rgba(84, 166, 255, 1) ),color-stop(0.6656,rgba(0, 237, 237, 1) ),color-stop(1,rgba(255, 166, 255, 1) ));
-	background : -o-linear-gradient(90deg, rgba(84, 166, 255, 1) 0%, rgba(0, 237, 237, 1) 66.56%, rgba(255, 166, 255, 1) 100%);
-	background : -ms-linear-gradient(90deg, rgba(84, 166, 255, 1) 0%, rgba(0, 237, 237, 1) 66.56%, rgba(255, 166, 255, 1) 100%);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#54A6FF', endColorstr='#FFA6FF' ,GradientType=0)";
-	background : linear-gradient(0deg, rgba(84, 166, 255, 1) 0%, rgba(0, 237, 237, 1) 66.56%, rgba(255, 166, 255, 1) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFA6FF',endColorstr='#54A6FF' , GradientType=0);
+	background: rgb(84,166,255);
+	background: linear-gradient(90deg, rgba(84,166,255,1) 0%, rgba(0,237,237,1) 66%, rgba(255,166,255,1) 100%);
 }
 .footer-bkg
 {

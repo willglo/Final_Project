@@ -1,15 +1,8 @@
 @charset "utf-8";
-	body
-{
-	background : -moz-linear-gradient(50% 0% -90deg,rgba(255, 190, 0, 1) 0%,rgba(239, 0, 0, 1) 50%,rgba(234, 0, 0, 1) 50.87%,rgba(152, 0, 0, 1) 64.85%,rgba(87, 0, 0, 1) 77.24%,rgba(40, 0, 0, 1) 87.58%,rgba(11, 0, 0, 1) 95.48%,rgba(0, 0, 0, 1) 100%);
-	background : -webkit-linear-gradient(-90deg, rgba(255, 190, 0, 1) 0%, rgba(239, 0, 0, 1) 50%, rgba(234, 0, 0, 1) 50.87%, rgba(152, 0, 0, 1) 64.85%, rgba(87, 0, 0, 1) 77.24%, rgba(40, 0, 0, 1) 87.58%, rgba(11, 0, 0, 1) 95.48%, rgba(0, 0, 0, 1) 100%);
-	background : -webkit-gradient(linear,50% 0% ,50% 100% ,color-stop(0,rgba(255, 190, 0, 1) ),color-stop(0.5,rgba(239, 0, 0, 1) ),color-stop(0.5087,rgba(234, 0, 0, 1) ),color-stop(0.6485,rgba(152, 0, 0, 1) ),color-stop(0.7724,rgba(87, 0, 0, 1) ),color-stop(0.8758,rgba(40, 0, 0, 1) ),color-stop(0.9548,rgba(11, 0, 0, 1) ),color-stop(1,rgba(0, 0, 0, 1) ));
-	background : -o-linear-gradient(-90deg, rgba(255, 190, 0, 1) 0%, rgba(239, 0, 0, 1) 50%, rgba(234, 0, 0, 1) 50.87%, rgba(152, 0, 0, 1) 64.85%, rgba(87, 0, 0, 1) 77.24%, rgba(40, 0, 0, 1) 87.58%, rgba(11, 0, 0, 1) 95.48%, rgba(0, 0, 0, 1) 100%);
-	background : -ms-linear-gradient(-90deg, rgba(255, 190, 0, 1) 0%, rgba(239, 0, 0, 1) 50%, rgba(234, 0, 0, 1) 50.87%, rgba(152, 0, 0, 1) 64.85%, rgba(87, 0, 0, 1) 77.24%, rgba(40, 0, 0, 1) 87.58%, rgba(11, 0, 0, 1) 95.48%, rgba(0, 0, 0, 1) 100%);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFBE00', endColorstr='#000000' ,GradientType=0)";
-	background : linear-gradient(180deg, rgba(255, 190, 0, 1) 0%, rgba(239, 0, 0, 1) 50%, rgba(234, 0, 0, 1) 50.87%, rgba(152, 0, 0, 1) 64.85%, rgba(87, 0, 0, 1) 77.24%, rgba(40, 0, 0, 1) 87.58%, rgba(11, 0, 0, 1) 95.48%, rgba(0, 0, 0, 1) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFBE00',endColorstr='#000000' , GradientType=0);
-}
+body{
+		background: rgb(84,166,255);
+		background: linear-gradient(90deg, rgba(84,166,255,1) 0%, rgba(0,237,237,1) 66%, rgba(255,166,255,1) 100%);
+  }
 .footer-bkg
 {
 	background-image : url(footer-bkg.png);
